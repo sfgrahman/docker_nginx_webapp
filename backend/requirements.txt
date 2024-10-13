@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pymongo==4.8.0
+motor==3.5.1
+ 
